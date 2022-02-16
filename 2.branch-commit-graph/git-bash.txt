@@ -1,0 +1,20 @@
+
+
+1. $alias graph="git log --all --decorate --oneline --graph" 
+
+2. $git add index.html (untrack) 
+   $git add . -> menambahkan semua file baru ke staging area
+
+3. $git branch -> cek list branch
+   $git branch branch-baru-> membuat branch baru
+   $git checkout branch-baru-> pindah ke branch-baru
+   $git checkout -b branch-baru -> membuat dan pindah ke branch branch-baru
+
+4. $code . -> membuka branch di code editor
+
+5. $git status -> untuk mengetahui status repo kita
+
+6. $git commit -m "menambahkan file index.html" 
+   $git commit -am "menambahkan file index.html" (status modified)
+
+7. $graph

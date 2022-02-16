@@ -1,0 +1,19 @@
+
+
+1. masuk ke akun github
+
+2. buka repository milik user orang lain yang ditarget dan fork
+
+3. clone repository hasil fork
+
+4. masuk ke folder hasil clone menggunakan git bash
+
+5. add remote pemilik master repository
+
+6. sinkronkan commit antara semua remote dan git lokal
+
+7. master repo melakukan commit
+
+8. repo lokal request commit dari master pemilik repo yang melakukan commit perubahan (fetch)
+
+9. sinkronkan repo lokal dan repo github dari perubahan repo master (merge)

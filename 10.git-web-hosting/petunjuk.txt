@@ -1,0 +1,5 @@
+
+
+1. cpanel - layanan - kelola - all feature - git version control - clone repository
+
+2. click update from remote di git version control (jika ada commit perubahan di github)

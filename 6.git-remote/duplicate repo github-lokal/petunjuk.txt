@@ -1,0 +1,9 @@
+
+
+1. buat repository baru di github (checklist readme)
+
+2. copy clone with https di repository github
+
+3. pilih directory/folder dicomputer untuk lokasi repository
+
+4. paste clone https

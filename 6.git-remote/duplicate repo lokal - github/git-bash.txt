@@ -1,0 +1,17 @@
+
+
+1. $git remote add origin https://github.com/dwijulianto87/new-repo.git
+
+2. $cd repo target (code .)
+
+3. $git remote -> info nama remote
+
+4. $git remote -v -> info detail remote
+
+5. $git add .
+
+6. $git commit -m "deskripsi commit"
+
+7. $git push -u origin master -> untuk update commit ke remote github
+
+8. $git push -> untuk update commit ke remote selanjutnya

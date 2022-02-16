@@ -1,0 +1,7 @@
+
+
+1. buat repository baru di github dengan nam yang sama dengan repo lokal (unChecklist readme)
+
+2. copy git remote add origin
+
+3. buka repository local di git bash

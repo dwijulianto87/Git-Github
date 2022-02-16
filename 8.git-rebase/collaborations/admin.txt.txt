@@ -1,0 +1,7 @@
+
+
+1. kolaborasi repo github
+
+2. buka repo digithub - setting - collaborators - search username/email - add collaborators
+
+3. master melakukan commit mengubah warna tombol  

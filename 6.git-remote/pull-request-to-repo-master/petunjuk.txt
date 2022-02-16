@@ -1,0 +1,18 @@
+
+1. buka repo hasil clone dari akun orang lain menggunakan gitbash
+
+2. buat branch features
+
+3. melakukan add dan commit perubahan dibranch features
+
+4. update penambahan dan commit perubahan di repo github
+
+5. mengusulkan penambahan dan commit perubahan ke pemilik repo dari akun github
+
+6. compare & pull request
+
+7. confirm pemilik repo
+
+8. update repo lokal dan remote github dari pemilik repo
+
+9. hapus branch features lokal dan branch features di github

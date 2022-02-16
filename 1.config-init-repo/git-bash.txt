@@ -1,0 +1,9 @@
+
+1. $cd repo-target 
+
+2. $git config --global user.email "dwi@gmail.com"
+   $git config --global user.name "dwiaja"
+
+   info detail username & useremail ($git config --list)
+
+3. $git init

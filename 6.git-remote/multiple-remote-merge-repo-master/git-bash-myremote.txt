@@ -1,0 +1,23 @@
+
+
+1. masuk ke github
+
+2. buka target repo milik user lain, lakukan fork dan copy clone https
+
+3. $git clone https://github.com/username/repo.git (origin)
+
+4. $git cd repo
+
+5. $git remote add remoteA https://github.com/username/repo.git
+
+6. graph
+
+7. $git fetch remoteA dan graph
+
+8. repo master (remoteA commit mengubah warna tombol)
+
+9. $git fetch remoteA dan graph (request commit terakhir remoteA)
+
+10.$git merge remoteA/master -> menyinkronkan repo lokal dengan repo master remoteA
+
+11.$git push -u origin master -> update commit repo lokal ke repo master remote origin 

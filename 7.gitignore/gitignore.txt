@@ -1,0 +1,17 @@
+
+-> .gitignore adalah sebuah file yang dapat disimpan didalam repository git
+
+-> fungsinya untuk menuliskan daftar nama file/folder yang tidak dinginkan terbawa ke repository pada saat melakukakan perintah add dan commit
+
+contoh :
+
+config.txt -> file dengan nama config.txt
+
+data/	   -> folder dengan nama data
+
+*.exe	   -> semua file yang berextensi exe 
+
+
+referensi :
+https://github.com/github/gitignore
+https://www.toptal.com/developers/gitignore

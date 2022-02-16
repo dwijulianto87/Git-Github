@@ -1,0 +1,36 @@
+
+1.buka permintaan collaborators dan invite
+
+2.copy clone https
+
+3 $git clone  https://github.com/dwijulianto87/new-repo.git
+
+4.$cd new-repo
+
+5.$git checkout -b feature-keren
+
+6.$git commit -am "mengubah warna tombol"
+
+7.graph
+
+8.$git checkout master 
+
+9.$graph
+
+10.$git checkout feature-keren
+
+11.$git rebase master
+
+12.$graph
+
+13.$git checkout master 
+
+14.$graph
+
+15.$git rebase feature-keren
+
+16.$graph
+
+17.$git push -u origin master
+
+16.$graph

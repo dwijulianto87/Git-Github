@@ -1,0 +1,5 @@
+
+
+1. $git commit -am "mengubah warna tombol"
+
+2. $git push -u remoteA master

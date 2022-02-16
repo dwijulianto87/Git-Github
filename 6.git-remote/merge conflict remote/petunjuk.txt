@@ -1,0 +1,19 @@
+
+
+# bila terjadi commit  yang brsamaan antara repo master github dan repo git lokal
+
+1. request status commit terakhir di repo master remote
+
+2. cek status repo lokal
+
+3. cek graph
+
+4. ambil commit terakhir repo master
+
+5. buka file konflik di repo lokal
+
+6. resolve manual dan simpan perubahan
+
+7. add dan commit
+
+8. merge dari repo lokal ke remote

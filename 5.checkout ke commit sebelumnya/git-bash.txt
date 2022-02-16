@@ -1,0 +1,11 @@
+
+
+1. $git log -> menampilkan list history commit
+
+2. $git log -- style.css -> mengetahui riwayat commit berdasrkan file
+
+3. $q -> quit
+
+4. $git checkout 444ee22 -> 7 code hash commit terdepan
+
+5. $git checkout -b dev -> kembali ke commit 444ee22 dengan branch dev

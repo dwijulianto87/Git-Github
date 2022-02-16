@@ -1,0 +1,5 @@
+
+
+git rebase adalah cara kerja git(git workflow) selain merge, yang pada dasarnya menggunakan fast-forward merge, agar mempermudah dalam melacar track suatu branch
+
+

@@ -1,0 +1,18 @@
+
+# bila terjadi commit  yang brsamaan antara repo master github dan repo git lokal
+
+1. $git fetch
+
+2. $git status
+
+3. graph
+
+4. $git pull
+
+5. resolve manual dan simpan perubahan
+
+6. $git add .
+
+7. $git commit -m "merge dari repo lokal ke repo remote
+
+8. $git push

@@ -1,0 +1,27 @@
+
+github pages/halaman website/web hosting
+
+syarat repository dijadikan github pages utama :
+
+
+1. harus website statik (html, css, js)
+
+2. repository di github dan entry poin file index.html
+
+3. repository harus dengan nama (username.github.io)
+
+4. link github pages - username.github.io
+
+
+syarat repository dijadikan sub github pages utama :
+
+
+1. harus website statik (html, css, js)
+
+2. repository di github dan entry poin file index.html
+
+3. nama repository bebas
+
+4. setting - github pages - pilih source repository
+
+5. link sub github pages - username.github.io/nama-repo

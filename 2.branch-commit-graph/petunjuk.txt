@@ -1,0 +1,5 @@
+1. membuat graph
+
+2. buat branch dan checkout ke branch baru
+
+3. commit dan keterangan commit

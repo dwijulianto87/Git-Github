@@ -1,0 +1,8 @@
+
+
+1. $git checkout master -> pindah ke branch master
+   $git branch --merged -> mengetahui branch yang sudah di merge 
+   $git merge branch-baru -> menggabungkan branch-baru ke branch master
+
+2. $git branch -d namebranch -> menghapus branch
+   $git branch -D namebranch -> memaksa menghapus branch

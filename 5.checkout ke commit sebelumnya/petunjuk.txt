@@ -1,0 +1,8 @@
+
+1. tampilkan semua history commit
+
+2. pilih target commit dan copy 7 hash commit terdepan
+
+3. checkout ke commit yang dipilih
+
+4. checkout ke branch baru 

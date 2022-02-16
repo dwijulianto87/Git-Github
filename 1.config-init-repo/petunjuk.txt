@@ -1,0 +1,7 @@
+configurasi dan inisialisasi repository
+
+1. buka git bash dan cd target repo
+
+2. configurasi username dan email
+
+3. inisialisasi repo git menjadi master branch

@@ -1,0 +1,11 @@
+
+
+1. $git checkout -b features 
+
+2. $git commit -am "mengubah file index.html" (branch features)
+
+3. $git push origin features (update penambahan branch features dan commit perubahan di branch features ke akun github)
+
+4. buka repo diakun github dan lakukan compare & pull request ke pemilik repo
+
+5. 
